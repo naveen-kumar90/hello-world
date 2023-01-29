@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Welcome to Devops automation</h1>
     <p>Please fill in this form to create an account.</p>
+    <p> Welcome to Devops Tools CICD </p>
     <hr>
     <hr>
     <label for="email"><b>Email</b></label>
