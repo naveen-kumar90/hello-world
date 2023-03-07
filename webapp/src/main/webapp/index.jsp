@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Welcome to Devops automation</h1>
     <p>Please fill in this form to create an account.</p>
-    <p> Change in the Log info </p>
+    <p> DEVOPS with Ansible </p>
     <p> Welcome to Devops Tools CICD </p>
     <hr>
     <hr>
