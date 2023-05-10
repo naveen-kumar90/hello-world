@@ -3,7 +3,7 @@
     <h1>Welcome to Devops automation</h1>
     <p>Please fill in this form to create an account.</p>
     <p> Welcome to Devops Tool
-       CI Workflow is completed
+       CI Workflow is completed.
        Welcome to MONO application.
     </p>
     <hr>
