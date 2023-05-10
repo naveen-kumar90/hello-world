@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <p> Welcome to Devops Tool
        CI Workflow is completed.
-       Welcome to MONO application.
+       With the microserver.
     </p>
     <hr>
     <hr>
